@@ -1,0 +1,7 @@
+.head-search-table{
+    justify-content: space-between;
+}
+
+.head-search-table-right{
+    display: flex;
+}
